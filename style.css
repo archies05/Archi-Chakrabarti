@@ -200,6 +200,9 @@ body,html{
         margin-bottom: 8% !important;
     }
 
+    .navbar {
+        backdrop-filter: blur(6px);
+    }
     .nav-item a{
         float: right !important;
         padding: 5px !important;
